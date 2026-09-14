@@ -203,3 +203,6 @@ Karafun is offered as a full free version with all features and updates included
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 Download Karafun today and start singing your heart out! Enjoy the world of karaoke like never before.
+
+---
+**Last updated:** 2026-09-14 19:48:42 UTC
